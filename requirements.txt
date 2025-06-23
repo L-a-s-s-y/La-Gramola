@@ -1,0 +1,4 @@
+#Tkinter is needed and it is not installed via pip
+Pmw
+eyeD3
+pyglet
